@@ -1,13 +1,6 @@
 # Bot-Discord-Aternos
 Bot de Discord para encender/apagar servidores de Minecraft en Aternos
 
-## Para python 3.10
-
-### Instalar el archivo de requerimientos:
-```bash
-pip install -r requirements.txt
-```
-
 ### Modifica el archivo credentials.json con tus credenciales (claves) para que funcione el bot
 
 #### Bot-Discord-Aternos\credentials.json
